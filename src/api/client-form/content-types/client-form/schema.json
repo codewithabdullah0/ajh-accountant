@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "client_forms",
+  "info": {
+    "singularName": "client-form",
+    "pluralName": "client-forms",
+    "displayName": "Client Form"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "firstname": {
+      "type": "string"
+    },
+    "lastname": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "postcode": {
+      "type": "string"
+    },
+    "dateofbirth": {
+      "type": "date"
+    },
+    "ninumber": {
+      "type": "string"
+    },
+    "utrnumber": {
+      "type": "string"
+    }
+  }
+}

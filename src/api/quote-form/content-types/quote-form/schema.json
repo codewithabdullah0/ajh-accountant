@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "quote_forms",
+  "info": {
+    "singularName": "quote-form",
+    "pluralName": "quote-forms",
+    "displayName": "Quote Form"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "firstname": {
+      "type": "string"
+    },
+    "lastname": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "phone": {
+      "type": "biginteger"
+    },
+    "services": {
+      "type": "string"
+    },
+    "soletrader": {
+      "type": "string"
+    },
+    "privatedriver": {
+      "type": "string"
+    }
+  }
+}

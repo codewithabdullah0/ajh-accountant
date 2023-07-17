@@ -4,7 +4,8 @@
   "info": {
     "singularName": "client-form",
     "pluralName": "client-forms",
-    "displayName": "Client Form"
+    "displayName": "Client Form",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -30,6 +31,69 @@
       "type": "string"
     },
     "utrnumber": {
+      "type": "string"
+    },
+    "taxyear": {
+      "type": "string"
+    },
+    "natureofbusiness": {
+      "type": "string"
+    },
+    "turnover": {
+      "type": "string"
+    },
+    "tips": {
+      "type": "string"
+    },
+    "otherbusinessincome": {
+      "type": "string"
+    },
+    "fuel": {
+      "type": "string"
+    },
+    "insurance": {
+      "type": "string"
+    },
+    "radiorent": {
+      "type": "string"
+    },
+    "licensingfee": {
+      "type": "string"
+    },
+    "mobilecommunication": {
+      "type": "string"
+    },
+    "repair": {
+      "type": "string"
+    },
+    "accountingcost": {
+      "type": "string"
+    },
+    "bankcharges": {
+      "type": "string"
+    },
+    "otherexpense": {
+      "type": "string"
+    },
+    "car": {
+      "type": "string"
+    },
+    "carmileage": {
+      "type": "string"
+    },
+    "capitalpersonaluse": {
+      "type": "string"
+    },
+    "personaluse": {
+      "type": "string"
+    },
+    "otherincomeincludeproperty": {
+      "type": "string"
+    },
+    "valueofcar": {
+      "type": "string"
+    },
+    "caremission": {
       "type": "string"
     }
   }

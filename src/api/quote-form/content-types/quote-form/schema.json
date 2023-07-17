@@ -4,7 +4,8 @@
   "info": {
     "singularName": "quote-form",
     "pluralName": "quote-forms",
-    "displayName": "Quote Form"
+    "displayName": "Quote Form",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -31,6 +32,36 @@
     },
     "privatedriver": {
       "type": "string"
+    },
+    "deliverydriver": {
+      "type": "string"
+    },
+    "cis": {
+      "type": "string"
+    },
+    "taxidriver": {
+      "type": "string"
+    },
+    "onlineseller": {
+      "type": "string"
+    },
+    "other": {
+      "type": "string"
+    },
+    "propertyaccount": {
+      "type": "string"
+    },
+    "companyname": {
+      "type": "string"
+    },
+    "companynumber": {
+      "type": "string"
+    },
+    "paye": {
+      "type": "string"
+    },
+    "message": {
+      "type": "text"
     }
   }
 }
